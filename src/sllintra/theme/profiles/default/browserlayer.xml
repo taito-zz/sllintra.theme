@@ -1,0 +1,6 @@
+<layers>
+  <layer
+    interface="sllintra.theme.browser.interfaces.ISllintraThemeLayer"
+    name="sllintra.theme"
+    />
+</layers>

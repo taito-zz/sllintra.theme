@@ -1,0 +1,12 @@
+<configure
+  i18n_domain="sllintra.theme"
+  xmlns:browser="http://namespaces.zope.org/browser"
+  xmlns="http://namespaces.zope.org/zope">
+
+  <browser:resourceDirectory
+    name="sllintra.theme"
+    directory="static"
+    layer=".interfaces.ISllintraThemeLayer"
+    />
+
+</configure>

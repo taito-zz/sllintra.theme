@@ -1,0 +1,53 @@
+/* Faceted result */
+
+.photoAlbumEntry {
+    background-image: none;
+    float: none;
+    height: auto;
+    margin: 1em 4em;
+    overflow: visible;
+    padding: 0;
+    position: relative;
+    text-align: left;
+    width: auto;
+    border-bottom: 0.1em solid #ccc;
+    color: #205c90;
+    padding: 1em;
+}
+
+.photoAlbumEntry a {
+    display: block;
+    font-size: 100%;
+    height: auto;
+    margin: 0;
+    width: auto;
+}
+
+
+.photoAlbumEntryTitle {
+    color: #76797c;
+    display: block;
+    height: auto;
+    width: auto;
+}
+
+#content .photoAlbumEntry a:link {
+    border-bottom: none;
+}
+
+
+/* Dirty hack */
+
+#c1_widget li#c1_option_c1_Link input,
+#c1_widget li#c1_option_c1_Link label,
+#c1_widget li#c1_option_c1_FormFolder input,
+#c1_widget li#c1_option_c1_FormFolder label,
+#c1_widget li#c1_option_c1_Event input,
+#c1_widget li#c1_option_c1_Event label,
+#c1_widget li#c1_option_c1_Topic input,
+#c1_widget li#c1_option_c1_Topic label,
+#c1_widget li#c1_option_c1_Collection input,
+#c1_widget li#c1_option_c1_Collection label {
+    display: none;
+}
+
