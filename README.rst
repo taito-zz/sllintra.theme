@@ -2,7 +2,7 @@
 sllintra.theme
 ==============
 
-sllintra.theme provides theme for SLL site.
+sllintra.theme provides theme for SLL intra site.
 
 Changelog
 ---------
