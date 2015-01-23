@@ -1,6 +1,6 @@
 /* Faceted result */
 
-.photoAlbumEntry {
+.eea-preview-items .photoAlbumEntry {
     background-image: none;
     float: none;
     height: auto;
@@ -15,7 +15,7 @@
     padding: 1em;
 }
 
-.photoAlbumEntry a {
+.eea-preview-items .photoAlbumEntry a {
     display: block;
     font-size: 100%;
     height: auto;
@@ -23,15 +23,18 @@
     width: auto;
 }
 
+.eea-preview-items .photoAlbumEntry img {
+    display: none;
+}
 
-.photoAlbumEntryTitle {
+.eea-preview-items .photoAlbumEntryTitle {
     color: #76797c;
     display: block;
     height: auto;
     width: auto;
 }
 
-#content .photoAlbumEntry a:link {
+#content .eea-preview-items .photoAlbumEntry a:link {
     border-bottom: none;
 }
 
