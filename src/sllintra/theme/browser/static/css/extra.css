@@ -1,0 +1,16 @@
+/* Archive */
+
+#form-widgets-aihepiiri,
+#form-widgets-asiakirjan_luonne {
+    -moz-column-count: 3;
+    -ms-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+    display: block;
+    width: 100%;
+}
+
+.portaltype-archive .option {
+    display: block;
+    width: 100%;
+}
