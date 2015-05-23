@@ -7,6 +7,16 @@ sllintra.theme provides theme for SLL intra site.
 Changelog
 ---------
 
+0.0.4 (2015-05-23)
+==================
+
+- Fix style in Archive add form. [taito]
+
+0.0.3 (2015-05-22)
+==================
+
+- Style Archive content type. [taito]
+
 0.0.2 (2015-01-23)
 ==================
 

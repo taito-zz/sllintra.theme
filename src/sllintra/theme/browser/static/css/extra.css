@@ -1,5 +1,7 @@
 /* Archive */
 
+/*Add and Edit form*/
+
 #form-widgets-aihepiiri,
 #form-widgets-asiakirjan_luonne {
     -moz-column-count: 3;
@@ -10,6 +12,7 @@
     width: 100%;
 }
 
+.template-archive .option,
 .portaltype-archive .option {
     display: block;
     width: 100%;
