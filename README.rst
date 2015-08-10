@@ -4,11 +4,16 @@ sllintra.theme
 
 sllintra.theme provides theme for SLL intra site.
 
-.. image:: https://secure.travis-ci.org/taito/sllintra.content.png
-    :target: http://travis-ci.org/taito/sllintra.content
+.. image:: https://secure.travis-ci.org/taito/sllintra.theme.png
+    :target: http://travis-ci.org/taito/sllintra.theme
 
 Changelog
 ---------
+
+0.1 (2015-08-10)
+==================
+
+- Add dependency to Products.CMFPlacefulWorkflow for testing. [taito]
 
 0.0.5 (2015-08-10)
 ==================
