@@ -7,6 +7,11 @@ sllintra.theme provides theme for SLL intra site.
 Changelog
 ---------
 
+0.0.5 (2015-08-10)
+==================
+
+- Fix style for convert form. [taito]
+
 0.0.4 (2015-05-23)
 ==================
 

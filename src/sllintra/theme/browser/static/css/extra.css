@@ -2,8 +2,7 @@
 
 /*Add and Edit form*/
 
-#form-widgets-aihepiiri,
-#form-widgets-asiakirjan_luonne {
+span[id^="form-widgets-"] {
     -moz-column-count: 3;
     -ms-column-count: 3;
     -webkit-column-count: 3;
@@ -11,9 +10,16 @@
     display: block;
     width: 100%;
 }
-
+span.namedblobfile-field,
+span.namedblobimage-field {
+    -moz-column-count: 1;
+    -ms-column-count: 1;
+    -webkit-column-count: 1;
+    column-count: 1;
+}
 .template-archive .option,
-.portaltype-archive .option {
+.portaltype-archive .option,
+.template-convert .option {
     display: block;
     width: 100%;
 }
