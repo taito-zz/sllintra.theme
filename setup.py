@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='sllintra.theme',
-    version='0.0.5',
+    version='0.1',
     description="SLL intra theme",
     long_description=open("README.rst").read(),
     classifiers=[
