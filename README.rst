@@ -4,6 +4,9 @@ sllintra.theme
 
 sllintra.theme provides theme for SLL intra site.
 
+.. image:: https://secure.travis-ci.org/taito/sllintra.content.png
+    :target: http://travis-ci.org/taito/sllintra.content
+
 Changelog
 ---------
 
